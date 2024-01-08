@@ -2,6 +2,8 @@
 
 In this project, I leveraged advanced data visualization techniques to create a comprehensive Tableau dashboard that seamlessly integrates COVID-19 and unemployment data. With a keen eye for detail and a commitment to delivering insightful analytics, this project showcases my proficiency in data analysis, visualization, and manipulation.
 
+Links to the short presentation on this project: https://drive.google.com/file/d/16fPAMvsgLJuyBdsPeW3vBaZU7ESWWYj5/view?usp=sharing
+
 Key Features:
 
 Data Integration:
